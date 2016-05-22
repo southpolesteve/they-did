@@ -1,0 +1,23 @@
+{
+  "name": "what-idiot",
+  "version": "1.0.0",
+  "description": "",
+  "license": "",
+  "babel": {
+    "presets": [
+      "es2015"
+    ]
+  },
+  "dependencies": {
+    "lodash": "^4.12.0",
+    "twit": "^2.2.4"
+  },
+  "devDependencies": {
+    "babel-preset-es2015": "^6.5.0"
+  },
+  "shep": {
+    "region": "us-east-1",
+    "functionNamespace": "what-idiot",
+    "api": false
+  }
+}
